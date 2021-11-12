@@ -19,21 +19,18 @@ Technologies
 Projects Involved
   
  Bouncing Program:
- 
     ![image](https://user-images.githubusercontent.com/78581470/141404322-9ed8609c-b1a5-4b99-953d-d01be7e241ec.png)
     ![image](https://user-images.githubusercontent.com/78581470/141404337-514a3c85-5ec5-40b0-bf61-10f0a219e5d9.png)
     ![image](https://user-images.githubusercontent.com/78581470/141404371-6acbae07-18e1-411f-b093-376af77f4526.png)
     
     
 Solitaire Game:
-
     ![image](https://user-images.githubusercontent.com/78581470/141404429-4a028250-e302-4640-a91c-fcb7b5afcbbf.png)
     ![image](https://user-images.githubusercontent.com/78581470/141404453-6982781f-8157-4072-b43d-78bf817469c0.png)
     ![image](https://user-images.githubusercontent.com/78581470/141404467-356e34c5-7527-4d2f-9df9-48361845cd95.png)
     
     
 AUCSS Mini Program(developer and leaded by Zach Wang(full stack)):
-
     ![image](https://user-images.githubusercontent.com/78581470/141404681-64332187-bb87-421f-a9e2-7c96bb0a341f.png)
     ![image](https://user-images.githubusercontent.com/78581470/141404704-ef6d1a94-e5cd-4de0-aec1-51a4594ee5c7.png)
     ![image](https://user-images.githubusercontent.com/78581470/141404728-efbda6b5-8371-4a02-b902-27314e7c5f15.png)
